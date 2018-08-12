@@ -117,7 +117,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 - [Grove](https://github.com/rigetticomputing/grove) - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil).
-- [QISKit ACQUA](https://github.com/QISKit/qiskit-acqua) - Library of various quantum algorithm implemented with [QISKit](https://github.com/QISKit/qiskit-sdk-py).
+- [QISKit AQUA](https://github.com/Qiskit/aqua) - Library of various quantum algorithm implemented with [QISKit](https://github.com/Qiskit/qiskit-terra).
 - [QISKit Tutorial](https://github.com/QISKit/qiskit-tutorial) - Jupyter notebook filled with tutorials for [QISKit](https://github.com/QISKit/qiskit-sdk-py).
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Compiling and analyzing quantum algorithm for quantum chemistry simulations.
 - [XACC Examples](https://github.com/ORNL-QCI/xacc-examples) - Example code using [XACC](https://github.com/ORNL-QCI/xacc) for quantum computing.
